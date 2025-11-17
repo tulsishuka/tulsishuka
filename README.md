@@ -1,10 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Tulsi%20Shukla%20✨&fontSize=55&animation=fadeIn)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=550&lines=Self+Taught+MERN+Developer;JavaScript+Lover;Building+Projects+That+Matter;Learning+Every+Single+Day+🚀" />
-</h3>
 
----
 
 ### 👋 **Hey, I’m Tulsi**
 Self-taught **MERN Stack Developer** who believes in  
