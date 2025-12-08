@@ -13,11 +13,7 @@ Self-taught **MERN Stack Developer** who believes in
 </p>
 
 
-## 📈 **GitHub Stats**
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tulsishuka&show_icons=true&theme=radical&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulsishuka&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
 
 ---
 
