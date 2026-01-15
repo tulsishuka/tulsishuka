@@ -2,7 +2,7 @@
 
 
 ### 👋 **Hey, I’m Tulasi Shukla**
-Self-taught **MERN Stack Developer** who believes in  
+ I am **MERN Stack Developer** who believes in  
 **creating opportunities through consistency, clarity & code.**
 
 ---
